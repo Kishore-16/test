@@ -1,2 +1,2 @@
 a=input("enter name ")
-print(a)
+print(a," is good boy")
